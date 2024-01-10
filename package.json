@@ -1,0 +1,14 @@
+{
+  "name": "git-collab",
+  "version": "1.0.0",
+  "description": "Learn how to collaborate with other developers on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bonn Umunna",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
