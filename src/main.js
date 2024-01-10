@@ -9,4 +9,4 @@ function createFour() {
 function createFive() {
     return 5;
 }
-module.exports = { createThree, createFour }
+module.exports = { createThree, createFour, createFive }
