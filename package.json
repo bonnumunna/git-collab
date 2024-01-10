@@ -9,6 +9,7 @@
   "author": "Bonn Umunna",
   "license": "ISC",
   "devDependencies": {
+    "assert": "^2.1.0",
     "nodemon": "^3.0.2"
   }
 }

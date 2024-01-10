@@ -6,4 +6,7 @@ function createFour() {
     return 4;
 }
 
-module.exports = { createThree, createFour }
+function createFive() {
+    return 5;
+}
+module.exports = { createThree, createFour, createFive }
